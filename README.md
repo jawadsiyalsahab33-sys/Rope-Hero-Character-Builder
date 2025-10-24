@@ -1,25 +1,33 @@
-# Rope Hero Character Builder
+# Rope Hero Character Builder 🦸‍♂️
 
-**Live Tool:** [Visit the web app](https://ropeherohub.com/rope-hero-character-builder/)
+**Rope Hero Character Builder** is a free web tool that lets you create and customize **Rope Hero–style characters** directly in your browser — no installation required!
 
-## About  
-Rope Hero Character Builder is a free browser-based web application that lets users design and customize Rope Hero-style characters and export them as SVG or PNG. The tool runs entirely in the browser and works on completely free operating systems such as GNU/Linux (via Firefox, Chromium), as well as other platforms.
+🎮 **Live Tool:**  
+👉 [Use Rope Hero Character Builder Online](https://ropeherohub.com/rope-hero-character-builder/)
 
-## Demo  
-Open the live tool here: https://ropeherohub.com/rope-hero-character-builder/
+---
 
-## Features  
-- Browser-based (HTML5 / JavaScript)  
-- Drag-and-drop character parts and customizable colors  
-- Export to SVG or PNG  
-- No installation required — works offline after first load  
-- Ideal for hobbyists, game modders and content creators
+## 🧰 Features
+- Fully browser-based — works instantly on desktop and mobile.  
+- Customize outfits, weapons, colors, and hero stats.  
+- Free to use with no signup required.  
+- Designed for fans of open-world superhero games.
 
-## License  
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.  
-See: https://www.gnu.org/licenses/gpl-3.0.en.html
+---
 
-## Author  
-**William (jawadsiyalsahab33-sys)** — Blogger & Indie Web Developer  
-I create small web tools and apps for gamers and creators.  
-📧 Contact: yourname@example.com
+## 🧑‍💻 About the Developer
+Hi! I'm **William**, a blogger and creator of fun and free web tools for gamers.  
+I love building tools that make gaming more interactive and creative.  
+Check out more projects on [RopeHeroHub.com](https://ropeherohub.com).
+
+---
+
+## 🔗 Links
+- 🌐 Website: [https://ropeherohub.com](https://ropeherohub.com)
+- 🧠 Tool: [Rope Hero Character Builder](https://ropeherohub.com/rope-hero-character-builder/)
+- 🐙 GitHub Repo: [jawadsiyalsahab33-sys/Rope-Hero-Character-Builder](https://github.com/jawadsiyalsahab33-sys/Rope-Hero-Character-Builder)
+
+---
+
+### 📜 License
+Free to use and share — built for the gaming community!

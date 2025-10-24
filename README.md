@@ -16,7 +16,7 @@
 ---
 
 ## 🧑‍💻 About the Developer
-Hi! I'm **William**, a blogger and creator of fun and free web tools for gamers.  
+Hi! I'm **William James**, a blogger and creator of fun and free web tools for gamers.  
 I love building tools that make gaming more interactive and creative.  
 Check out more projects on [RopeHeroHub.com](https://ropeherohub.com).
 
@@ -25,9 +25,14 @@ Check out more projects on [RopeHeroHub.com](https://ropeherohub.com).
 ## 🔗 Links
 - 🌐 Website: [https://ropeherohub.com](https://ropeherohub.com)
 - 🧠 Tool: [Rope Hero Character Builder](https://ropeherohub.com/rope-hero-character-builder/)
-- 🐙 GitHub Repo: [williamjames33-sys/Rope-Hero-Character-Builder](https://github.com/williamjames33-sys/Rope-Hero-Character-Builder)
+- 🐙 GitHub Repo: [WilliamJamesDev/Rope-Hero-Character-Builder](https://github.com/jawadsiyalsahab33-sys/Rope-Hero-Character-Builder)
 
 ---
 
 ### 📜 License
 Free to use and share — built for the gaming community!
+
+---
+
+### 🏷️ Tags
+#RopeHero #SuperheroBuilder #CharacterCreator #GameTools #OpenWorldGames #RopeHeroHub

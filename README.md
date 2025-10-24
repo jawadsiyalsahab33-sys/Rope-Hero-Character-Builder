@@ -25,7 +25,7 @@ Check out more projects on [RopeHeroHub.com](https://ropeherohub.com).
 ## 🔗 Links
 - 🌐 Website: [https://ropeherohub.com](https://ropeherohub.com)
 - 🧠 Tool: [Rope Hero Character Builder](https://ropeherohub.com/rope-hero-character-builder/)
-- 🐙 GitHub Repo: [jawadsiyalsahab33-sys/Rope-Hero-Character-Builder](https://github.com/williamjames33-sys/Rope-Hero-Character-Builder)
+- 🐙 GitHub Repo: [williamjames33-sys/Rope-Hero-Character-Builder](https://github.com/williamjames33-sys/Rope-Hero-Character-Builder)
 
 ---
 
